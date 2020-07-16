@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="gioitinh">Giới Tính</string>
+    <string name="chapnhan">Chấp nhận</string>
+    <string name="ptName">Tên</string>
+    <string name="nam">Nam</string>
+    <string name="nu">Nữ</string>
+    <string name="plSdt">Số điện thoại</string>
+    <string name="txtView" />
+    <string name="textView" />
+    <string name="txtLan">Languages</string>
+    <string name="txtCt">Chú thích</string>
+    <string name="btnThoat">Thoát</string>
+    <string name="plCt" />
+    <string name="txtht" />
+    <string-array name="lan_array">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>
